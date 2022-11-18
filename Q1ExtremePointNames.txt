@@ -1,4 +1,5 @@
 NoCom : 
+
 ./src/main/java/org/jfree/chart/ChartFactory.java
 ./src/main/java/org/jfree/chart/JFreeChart.java
 ./src/main/java/org/jfree/chart/plot/CategoryPlot.java
@@ -19,7 +20,10 @@ NoCom :
 ./src/main/java/org/jfree/chart/StandardChartTheme.java
 ./src/main/java/org/jfree/data/time/TimeSeries.java
 
+
+
 NCLOC :
+
 ./src/main/java/org/jfree/chart/axis/Axis.java
 ./src/main/java/org/jfree/chart/axis/CategoryAxis.java
 ./src/main/java/org/jfree/chart/axis/CyclicNumberAxis.java
@@ -61,3 +65,23 @@ NCLOC :
 ./src/main/java/org/jfree/data/time/TimeSeries.java
 
 DCP : 
+
+NoCom et NCLOC :
+
+./src/main/java/org/jfree/chart/ChartFactory.java
+./src/main/java/org/jfree/chart/JFreeChart.java
+./src/main/java/org/jfree/chart/plot/CategoryPlot.java
+./src/main/java/org/jfree/chart/plot/MeterPlot.java
+./src/main/java/org/jfree/chart/plot/Plot.java
+./src/main/java/org/jfree/chart/plot/PolarPlot.java
+./src/main/java/org/jfree/chart/plot/SpiderWebPlot.java
+./src/main/java/org/jfree/chart/plot/ThermometerPlot.java
+./src/main/java/org/jfree/chart/plot/XYPlot.java
+./src/main/java/org/jfree/chart/renderer/AbstractRenderer.java
+./src/main/java/org/jfree/chart/renderer/category/AbstractCategoryItemRenderer.java
+./src/main/java/org/jfree/chart/renderer/DefaultPolarItemRenderer.java
+./src/main/java/org/jfree/chart/renderer/xy/AbstractXYItemRenderer.java
+./src/main/java/org/jfree/chart/renderer/xy/StandardXYItemRenderer.java
+./src/main/java/org/jfree/chart/renderer/xy/XYLineAndShapeRenderer.java
+./src/main/java/org/jfree/chart/StandardChartTheme.java
+./src/main/java/org/jfree/data/time/TimeSeries.java
